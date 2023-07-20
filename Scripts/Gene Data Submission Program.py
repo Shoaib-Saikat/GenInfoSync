@@ -7,7 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 file_name = input('Do not put the extension!!! Enter filename: ')+'.txt'
 disease_name = input("Enter disease's name:")
-username = input("Username: ")
+username_admin = input("Username: ")
 user_password = input("Password: ")
 
 fh = open(file_name, 'r')
@@ -19,10 +19,10 @@ sust_url = 'https://bgdd.sust.edu/admin/disease/diseasecausinggene/add/'
 driver.get(sust_url)
 
 username = driver.find_element_by_css_selector("input[name='username'][class='form-control'][placeholder='Username'][required]")
-username.send_keys("username")
+username.send_keys(username_admin)
 
 password = driver.find_element_by_name("password")
-password.send_keys("user_password")
+password.send_keys(user_password)
 
 login_button = driver.find_element_by_class_name('col-12')
 login_button.click()
