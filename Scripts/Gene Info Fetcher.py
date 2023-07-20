@@ -122,7 +122,7 @@ for gene_details in fh:
         payload = "{\"url\":\"" + current_url_pdb + "\",\"alias\":\"" + alias + "\"}"
         headers = {
             "content-type": "application/json",
-            "X-RapidAPI-Key": "ce78ea6c84msh1b089ff702b2d7fp15bf32jsne562438810e3",
+            "X-RapidAPI-Key": "Put your API key here",
             "X-RapidAPI-Host": "url-shortener23.p.rapidapi.com"
         }
         try:
