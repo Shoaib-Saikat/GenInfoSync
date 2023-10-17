@@ -1,0 +1,1 @@
+The data presented here is sourced from NCBI and is intended for utilization in the "Gene Info Fetcher.py" to retrieve essential information for uploading into the SUST (Shahjalal University of Science & Technology, Bangladesh) Genetic Disease Database.
