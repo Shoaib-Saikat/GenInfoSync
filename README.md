@@ -1,7 +1,7 @@
-# GenInfoSync-Project
+# GenInfoSync
 
 ## Overview
-GenInfoSync-Project is an automation initiative aimed at efficiently submitting gene data into Bangladesh's inaugural genetic disease database. This project comprises three Python scripts designed to streamline the collection, submission, and verification of genetic information within the database.
+GenInfoSync is an automation initiative aimed at efficiently submitting gene data into Bangladesh's inaugural genetic disease database. This project comprises three Python scripts designed to streamline the collection, submission, and verification of genetic information within the database.
 
 ## Functionalities
 - **Data Collection Script:** The initial script gathers information for eight essential fields required to complete a gene information submission form.
@@ -21,7 +21,7 @@ The completion of data collection and submission for 3,143 genes was accomplishe
   - Requests: Utilized for API integration, facilitating the shortening of lengthy URLs.
 
 ## Impact
-GenInfoSync-Project significantly streamlines the process of gene data submission, minimizing human labor and expediting the creation of an extensive genetic disease database for researchers and practitioners.
+GenInfoSync significantly streamlines the process of gene data submission, minimizing human labor and expediting the creation of an extensive genetic disease database for researchers and practitioners.
 
 **Note:** The runtime duration is subject to variation based on internet speed, independent of the specificities of the PC.
 
