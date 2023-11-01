@@ -1,4 +1,3 @@
-```markdown
 # GenInfoSync-Project
 
 ## Overview
@@ -33,6 +32,3 @@ The scripts utilized for this project are available on GitHub for further examin
 The genetic disease database can be accessed at: [BGDD - SUST](https://bgdd.sust.edu/)
 
 This project demonstrates the efficacy of automation in accelerating data processing tasks, particularly in the realm of genetic research and database management.
-```
-
-This markdown code, when rendered in a GitHub repository's README file, will present the information in a structured and readable format.
